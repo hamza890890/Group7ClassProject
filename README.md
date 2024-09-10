@@ -1,4 +1,4 @@
-# ClassProject
+# CSC 405 Section 1: Data Science Group Project
 
 End-to-End Analytical Model Development
 
