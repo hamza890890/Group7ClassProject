@@ -1,10 +1,6 @@
 # ClassProject
 
-Here's a sample README file for GitHub based on the provided project description:
-
----
-
-# Final Project: End-to-End Analytical Model Development
+End-to-End Analytical Model Development
 
 ## Overview
 
