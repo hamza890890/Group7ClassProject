@@ -1,0 +1,551 @@
+Column Name,Description,Data Type,Unique Values,Top Value,Frequency
+GEO_ID,Geography,object,3222,0500000US01001,1
+NAME,Geographic Area Name,object,3222,"Abbeville County, South Carolina",1
+DP03_0001E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,object,3143,4166,3
+DP03_0001M,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,object,554,92,27
+DP03_0002E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,object,3083,10000,3
+DP03_0002M,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,object,1343,113,9
+DP03_0003E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,object,3080,11028,3
+DP03_0003M,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,object,1332,400,13
+DP03_0004E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,object,3082,6292,5
+DP03_0004M,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,object,1362,107,11
+DP03_0005E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,object,1892,0,19
+DP03_0005M,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,object,872,161,18
+DP03_0006E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,object,575,0,1182
+DP03_0006M,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,object,393,19,186
+DP03_0007E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,object,3052,10978,3
+DP03_0007M,Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,object,1335,147,13
+DP03_0008E,Estimate!!EMPLOYMENT STATUS!!Civilian labor force,object,3080,11028,3
+DP03_0008M,Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force,object,1332,400,13
+DP03_0009E,Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,object,2,(X),3221
+DP03_0009M,Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,object,2,(X),3221
+DP03_0010E,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over,object,3086,11368,3
+DP03_0010M,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over,object,458,100,30
+DP03_0011E,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,object,2908,1359,4
+DP03_0011M,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,object,1109,231,14
+DP03_0012E,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,object,2916,1359,4
+DP03_0012M,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,object,1104,231,15
+DP03_0013E,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,object,2960,2152,4
+DP03_0013M,Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,object,1128,239,15
+DP03_0014E,Estimate!!EMPLOYMENT STATUS!!Own children of the householder under 6 years,object,2487,538,6
+DP03_0014M,Margin of Error!!EMPLOYMENT STATUS!!Own children of the householder under 6 years,object,680,40,21
+DP03_0015E,Estimate!!EMPLOYMENT STATUS!!Own children of the householder under 6 years!!All parents in family in labor force,object,2231,107,6
+DP03_0015M,Margin of Error!!EMPLOYMENT STATUS!!Own children of the householder under 6 years!!All parents in family in labor force,object,851,142,18
+DP03_0016E,Estimate!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years,object,2830,1140,4
+DP03_0016M,Margin of Error!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years,object,784,123,19
+DP03_0017E,Estimate!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years!!All parents in family in labor force,object,2680,1161,5
+DP03_0017M,Margin of Error!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years!!All parents in family in labor force,object,1074,167,15
+DP03_0018E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over,object,3066,2450,3
+DP03_0018M,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over,object,1359,256,11
+DP03_0019E,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",object,3032,132,3
+DP03_0019M,"Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",object,1416,267,15
+DP03_0020E,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",object,2199,165,8
+DP03_0020M,"Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",object,1007,199,15
+DP03_0021E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),object,769,0,630
+DP03_0021M,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),object,520,19,129
+DP03_0022E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,object,1271,0,25
+DP03_0022M,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,object,624,40,29
+DP03_0023E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,object,1074,0,104
+DP03_0023M,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,object,588,14,58
+DP03_0024E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Worked from home,object,1792,136,11
+DP03_0024M,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Worked from home,object,883,54,23
+DP03_0025E,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),object,322,23.6,33
+DP03_0025M,Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),object,90,1.0,147
+DP03_0026E,Estimate!!OCCUPATION!!Civilian employed population 16 years and over,object,3082,6292,5
+DP03_0026M,Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over,object,1362,107,11
+DP03_0027E,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",object,2832,1024,4
+DP03_0027M,"Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",object,1272,157,18
+DP03_0028E,Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,object,2548,374,5
+DP03_0028M,Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,object,1128,48,12
+DP03_0029E,Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,object,2589,124,5
+DP03_0029M,Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,object,1172,180,16
+DP03_0030E,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",object,2335,419,8
+DP03_0030M,"Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",object,938,151,18
+DP03_0031E,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",object,2582,423,6
+DP03_0031M,"Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",object,1072,153,13
+DP03_0032E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over,object,3082,6292,5
+DP03_0032M,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over,object,1362,107,11
+DP03_0033E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",object,1369,180,11
+DP03_0033M,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",object,530,98,25
+DP03_0034E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,object,2047,159,7
+DP03_0034M,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,object,889,58,18
+DP03_0035E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,object,2346,0,19
+DP03_0035M,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,object,989,174,14
+DP03_0036E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,object,1325,0,52
+DP03_0036M,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,object,642,12,27
+DP03_0037E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,object,2324,89,8
+DP03_0037M,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,object,1023,143,14
+DP03_0038E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",object,1833,103,8
+DP03_0038M,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",object,819,126,26
+DP03_0039E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Information,object,1058,0,99
+DP03_0039M,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Information,object,568,14,68
+DP03_0040E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",object,1714,0,17
+DP03_0040M,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",object,827,97,21
+DP03_0041E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",object,1986,24,9
+DP03_0041M,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",object,939,43,21
+DP03_0042E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",object,2668,1473,5
+DP03_0042M,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",object,1168,143,12
+DP03_0043E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",object,2099,49,8
+DP03_0043M,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",object,961,130,16
+DP03_0044E,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Other services, except public administration",object,1750,71,12
+DP03_0044M,"Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Other services, except public administration",object,785,45,20
+DP03_0045E,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,object,1808,73,12
+DP03_0045M,Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,object,780,58,21
+DP03_0046E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over,object,3082,6292,5
+DP03_0046M,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over,object,1362,107,11
+DP03_0047E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,object,3054,10320,3
+DP03_0047M,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,object,1402,293,10
+DP03_0048E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,object,2486,591,6
+DP03_0048M,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,object,1070,143,15
+DP03_0049E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed in own not incorporated business workers,object,1980,259,8
+DP03_0049M,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed in own not incorporated business workers,object,817,155,21
+DP03_0050E,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,object,433,0,515
+DP03_0050M,Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,object,276,19,122
+DP03_0051E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households,object,3035,9792,4
+DP03_0051M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households,object,951,349,16
+DP03_0052E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",object,1922,132,11
+DP03_0052M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",object,758,29,18
+DP03_0053E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",object,1736,108,10
+DP03_0053M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",object,695,126,23
+DP03_0054E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",object,2209,115,7
+DP03_0054M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",object,873,127,18
+DP03_0055E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",object,2202,240,7
+DP03_0055M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",object,861,105,17
+DP03_0056E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",object,2402,356,7
+DP03_0056M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",object,948,271,16
+DP03_0057E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",object,2535,198,6
+DP03_0057M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",object,1011,190,18
+DP03_0058E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",object,2284,378,6
+DP03_0058M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",object,924,178,18
+DP03_0059E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",object,2300,167,9
+DP03_0059M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",object,970,59,16
+DP03_0060E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",object,1603,0,21
+DP03_0060M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",object,752,42,25
+DP03_0061E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",object,1479,0,34
+DP03_0061M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",object,726,47,28
+DP03_0062E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),object,3100,46111,3
+DP03_0062M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),object,2538,2177,5
+DP03_0063E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),object,3122,68005,3
+DP03_0063M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),object,2607,3684,5
+DP03_0064E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,object,2992,2616,4
+DP03_0064M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,object,1104,242,13
+DP03_0065E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),object,3117,30970,2
+DP03_0065M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),object,2636,1870,4
+DP03_0066E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,object,2803,1315,4
+DP03_0066M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,object,896,276,16
+DP03_0067E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),object,2579,18451,4
+DP03_0067M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),object,1591,710,12
+DP03_0068E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,object,2660,196,5
+DP03_0068M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,object,957,225,14
+DP03_0069E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),object,2972,15552,3
+DP03_0069M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),object,2469,3146,5
+DP03_0070E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,object,1776,0,21
+DP03_0070M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,object,719,14,20
+DP03_0071E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),object,2317,N,56
+DP03_0071M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),object,1880,N,56
+DP03_0072E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,object,1245,0,41
+DP03_0072M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,object,563,14,35
+DP03_0073E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),object,2119,N,144
+DP03_0073M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),object,1645,N,144
+DP03_0074E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp/SNAP benefits in the past 12 months,object,2345,398,7
+DP03_0074M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp/SNAP benefits in the past 12 months,object,910,158,14
+DP03_0075E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families,object,3003,10249,4
+DP03_0075M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families,object,1143,303,13
+DP03_0076E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",object,1328,0,35
+DP03_0076M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",object,590,27,29
+DP03_0077E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",object,1073,0,46
+DP03_0077M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",object,492,14,39
+DP03_0078E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",object,1654,43,10
+DP03_0078M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",object,679,114,23
+DP03_0079E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",object,1809,49,9
+DP03_0079M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",object,716,154,22
+DP03_0080E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",object,2111,197,7
+DP03_0080M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",object,819,186,19
+DP03_0081E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",object,2337,898,6
+DP03_0081M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",object,921,159,17
+DP03_0082E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",object,2177,131,9
+DP03_0082M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",object,846,109,17
+DP03_0083E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",object,2230,671,8
+DP03_0083M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",object,900,119,19
+DP03_0084E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",object,1546,0,29
+DP03_0084M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",object,724,23,25
+DP03_0085E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",object,1400,0,46
+DP03_0085M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",object,693,44,34
+DP03_0086E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),object,3076,68750,4
+DP03_0086M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),object,2676,2332,5
+DP03_0087E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),object,3151,74496,3
+DP03_0087M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),object,2740,2763,4
+DP03_0088E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars),object,3015,22955,3
+DP03_0088M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars),object,2038,1049,6
+DP03_0089E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,object,2814,1808,4
+DP03_0089M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,object,1156,235,12
+DP03_0090E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),object,2997,-,13
+DP03_0090M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),object,2551,**,13
+DP03_0091E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),object,3099,27793,3
+DP03_0091M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),object,2675,2771,5
+DP03_0092E,Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for workers (dollars),object,2937,30457,4
+DP03_0092M,Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for workers (dollars),object,2238,1133,6
+DP03_0093E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for male full-time, year-round workers (dollars)",object,3016,46250,6
+DP03_0093M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for male full-time, year-round workers (dollars)",object,2562,1952,6
+DP03_0094E,"Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for female full-time, year-round workers (dollars)",object,2943,35000,9
+DP03_0094M,"Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for female full-time, year-round workers (dollars)",object,2428,1841,6
+DP03_0095E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,object,3163,19346,3
+DP03_0095M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,object,683,43,21
+DP03_0096E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage,object,3141,5678,3
+DP03_0096M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage,object,1307,161,12
+DP03_0097E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With private health insurance,object,3116,13067,3
+DP03_0097M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With private health insurance,object,1738,142,8
+DP03_0098E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With public coverage,object,3061,11232,3
+DP03_0098M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With public coverage,object,1606,334,9
+DP03_0099E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,object,2631,1200,5
+DP03_0099M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,object,1312,128,12
+DP03_0100E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years,object,2970,1202,3
+DP03_0100M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years,object,552,82,26
+DP03_0101E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years!!No health insurance coverage,object,1434,0,47
+DP03_0101M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years!!No health insurance coverage,object,761,52,22
+DP03_0102E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years,object,3105,2000,3
+DP03_0102M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years,object,736,77,21
+DP03_0103E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:,object,3057,11684,3
+DP03_0103M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:,object,1275,363,12
+DP03_0104E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:,object,3073,2719,3
+DP03_0104M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:,object,1299,102,10
+DP03_0105E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage,object,3035,703,4
+DP03_0105M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage,object,1378,192,12
+DP03_0106E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With private health insurance,object,3027,1856,4
+DP03_0106M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With private health insurance,object,1401,105,13
+DP03_0107E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With public coverage,object,2210,36,8
+DP03_0107M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With public coverage,object,980,114,15
+DP03_0108E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!No health insurance coverage,object,2278,150,6
+DP03_0108M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!No health insurance coverage,object,1019,194,14
+DP03_0109E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:,object,1794,0,27
+DP03_0109M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:,object,830,125,22
+DP03_0110E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage,object,1553,0,51
+DP03_0110M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage,object,751,14,39
+DP03_0111E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With private health insurance,object,1189,0,94
+DP03_0111M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With private health insurance,object,635,14,43
+DP03_0112E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With public coverage,object,1168,0,164
+DP03_0112M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With public coverage,object,597,10,65
+DP03_0113E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!No health insurance coverage,object,1083,0,114
+DP03_0113M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!No health insurance coverage,object,576,10,43
+DP03_0114E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:,object,2834,1762,4
+DP03_0114M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:,object,1255,148,10
+DP03_0115E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage,object,2750,1712,5
+DP03_0115M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage,object,1208,218,13
+DP03_0116E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With private health insurance,object,2510,156,5
+DP03_0116M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With private health insurance,object,1053,153,17
+DP03_0117E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With public coverage,object,2464,85,8
+DP03_0117M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With public coverage,object,1049,63,15
+DP03_0118E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!No health insurance coverage,object,1729,139,10
+DP03_0118M,Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!No health insurance coverage,object,779,21,19
+DP03_0119E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,object,2,(X),3221
+DP03_0119M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,object,2,(X),3221
+DP03_0120E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years,object,2,(X),3221
+DP03_0120M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years,object,2,(X),3221
+DP03_0121E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,object,2,(X),3221
+DP03_0121M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,object,2,(X),3221
+DP03_0122E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families,object,2,(X),3221
+DP03_0122M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families,object,2,(X),3221
+DP03_0123E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years,object,2,(X),3221
+DP03_0123M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years,object,2,(X),3221
+DP03_0124E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,object,2,(X),3221
+DP03_0124M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,object,2,(X),3221
+DP03_0125E,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present",object,2,(X),3221
+DP03_0125M,"Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present",object,2,(X),3221
+DP03_0126E,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years",object,2,(X),3221
+DP03_0126M,"Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years",object,2,(X),3221
+DP03_0127E,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",object,2,(X),3221
+DP03_0127M,"Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",object,2,(X),3221
+DP03_0128E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,object,2,(X),3221
+DP03_0128M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,object,2,(X),3221
+DP03_0129E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years,object,2,(X),3221
+DP03_0129M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years,object,2,(X),3221
+DP03_0130E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years,object,2,(X),3221
+DP03_0130M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years,object,2,(X),3221
+DP03_0131E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,object,2,(X),3221
+DP03_0131M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,object,2,(X),3221
+DP03_0132E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,object,2,(X),3221
+DP03_0132M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,object,2,(X),3221
+DP03_0133E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over,object,2,(X),3221
+DP03_0133M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over,object,2,(X),3221
+DP03_0134E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!18 to 64 years,object,2,(X),3221
+DP03_0134M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!18 to 64 years,object,2,(X),3221
+DP03_0135E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!65 years and over,object,2,(X),3221
+DP03_0135M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!65 years and over,object,2,(X),3221
+DP03_0136E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!People in families,object,2,(X),3221
+DP03_0136M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!People in families,object,2,(X),3221
+DP03_0137E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Unrelated individuals 15 years and over,object,2,(X),3221
+DP03_0137M,Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Unrelated individuals 15 years and over,object,2,(X),3221
+DP03_0001PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over,object,3143,4166,3
+DP03_0001PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over,object,2,(X),3221
+DP03_0002PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,object,421,63.7,28
+DP03_0002PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force,object,112,2.1,114
+DP03_0003PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,object,415,65.0,29
+DP03_0003PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force,object,112,1.4,118
+DP03_0004PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,object,433,55.0,26
+DP03_0004PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed,object,109,1.9,117
+DP03_0005PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,object,109,2.8,143
+DP03_0005PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed,object,55,0.5,344
+DP03_0006PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,object,79,0.0,1720
+DP03_0006PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces,object,62,0.1,1514
+DP03_0007PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,object,421,36.3,28
+DP03_0007PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force,object,112,2.1,114
+DP03_0008PE,Percent!!EMPLOYMENT STATUS!!Civilian labor force,object,3080,11028,3
+DP03_0008PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force,object,2,(X),3221
+DP03_0009PE,Percent!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,object,187,4.0,81
+DP03_0009PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,object,89,0.9,189
+DP03_0010PE,Percent!!EMPLOYMENT STATUS!!Females 16 years and over,object,3086,11368,3
+DP03_0010PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over,object,2,(X),3221
+DP03_0011PE,Percent!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,object,393,57.0,29
+DP03_0011PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force,object,134,1.6,105
+DP03_0012PE,Percent!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,object,389,57.0,30
+DP03_0012PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force,object,135,1.6,102
+DP03_0013PE,Percent!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,object,411,49.7,28
+DP03_0013PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed,object,134,1.7,99
+DP03_0014PE,Percent!!EMPLOYMENT STATUS!!Own children of the householder under 6 years,object,2487,538,6
+DP03_0014PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Own children of the householder under 6 years,object,2,(X),3221
+DP03_0015PE,Percent!!EMPLOYMENT STATUS!!Own children of the householder under 6 years!!All parents in family in labor force,object,568,65.5,22
+DP03_0015PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Own children of the householder under 6 years!!All parents in family in labor force,object,296,5.1,41
+DP03_0016PE,Percent!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years,object,2830,1140,4
+DP03_0016PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years,object,2,(X),3221
+DP03_0017PE,Percent!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years!!All parents in family in labor force,object,477,73.6,25
+DP03_0017PM,Percent Margin of Error!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years!!All parents in family in labor force,object,237,3.9,50
+DP03_0018PE,Percent!!COMMUTING TO WORK!!Workers 16 years and over,object,3066,2450,3
+DP03_0018PM,Percent Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over,object,2,(X),3221
+DP03_0019PE,"Percent!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",object,365,80.7,36
+DP03_0019PM,"Percent Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone",object,131,2.5,96
+DP03_0020PE,"Percent!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",object,198,8.5,68
+DP03_0020PM,"Percent Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled",object,102,1.9,127
+DP03_0021PE,Percent!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),object,112,0.0,811
+DP03_0021PM,Percent Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab),object,83,0.2,580
+DP03_0022PE,Percent!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,object,168,1.2,117
+DP03_0022PM,Percent Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Walked,object,97,0.4,256
+DP03_0023PE,Percent!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,object,97,0.9,207
+DP03_0023PM,Percent Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Other means,object,75,0.3,398
+DP03_0024PE,Percent!!COMMUTING TO WORK!!Workers 16 years and over!!Worked from home,object,196,3.9,60
+DP03_0024PM,Percent Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Worked from home,object,95,1.0,199
+DP03_0025PE,Percent!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),object,2,(X),3221
+DP03_0025PM,Percent Margin of Error!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes),object,2,(X),3221
+DP03_0026PE,Percent!!OCCUPATION!!Civilian employed population 16 years and over,object,3082,6292,5
+DP03_0026PM,Percent Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over,object,2,(X),3221
+DP03_0027PE,"Percent!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",object,375,31.7,33
+DP03_0027PM,"Percent Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations",object,132,2.0,92
+DP03_0028PE,Percent!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,object,243,15.8,56
+DP03_0028PM,Percent Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations,object,120,1.8,117
+DP03_0029PE,Percent!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,object,210,19.7,59
+DP03_0029PM,Percent Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations,object,107,1.5,99
+DP03_0030PE,"Percent!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",object,237,10.5,48
+DP03_0030PM,"Percent Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations",object,112,1.3,116
+DP03_0031PE,"Percent!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",object,308,17.6,31
+DP03_0031PM,"Percent Margin of Error!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations",object,104,2.1,98
+DP03_0032PE,Percent!!INDUSTRY!!Civilian employed population 16 years and over,object,3082,6292,5
+DP03_0032PM,Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over,object,2,(X),3221
+DP03_0033PE,"Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",object,314,0.9,66
+DP03_0033PM,"Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining",object,109,0.1,188
+DP03_0034PE,Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,object,165,6.4,73
+DP03_0034PM,Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Construction,object,96,1.1,147
+DP03_0035PE,Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,object,334,11.9,28
+DP03_0035PM,Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing,object,96,1.9,116
+DP03_0036PE,Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,object,84,1.8,150
+DP03_0036PM,Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade,object,74,0.6,312
+DP03_0037PE,Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,object,178,10.9,78
+DP03_0037PM,Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade,object,90,1.8,140
+DP03_0038PE,"Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",object,149,4.6,83
+DP03_0038PM,"Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities",object,85,1.1,177
+DP03_0039PE,Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Information,object,65,1.3,210
+DP03_0039PM,Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Information,object,74,0.4,472
+DP03_0040PE,"Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",object,129,4.4,98
+DP03_0040PM,"Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing",object,71,0.8,236
+DP03_0041PE,"Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",object,201,5.6,61
+DP03_0041PM,"Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services",object,87,1.2,201
+DP03_0042PE,"Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",object,286,21.9,43
+DP03_0042PM,"Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance",object,118,2.0,112
+DP03_0043PE,"Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",object,223,8.1,59
+DP03_0043PM,"Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services",object,103,1.3,168
+DP03_0044PE,"Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Other services, except public administration",object,112,4.7,144
+DP03_0044PM,"Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Other services, except public administration",object,74,0.8,199
+DP03_0045PE,Percent!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,object,186,4.0,74
+DP03_0045PM,Percent Margin of Error!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration,object,93,1.0,172
+DP03_0046PE,Percent!!CLASS OF WORKER!!Civilian employed population 16 years and over,object,3082,6292,5
+DP03_0046PM,Percent Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over,object,2,(X),3221
+DP03_0047PE,Percent!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,object,377,74.7,31
+DP03_0047PM,Percent Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers,object,135,1.8,90
+DP03_0048PE,Percent!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,object,307,13.0,40
+DP03_0048PM,Percent Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers,object,123,1.9,106
+DP03_0049PE,Percent!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed in own not incorporated business workers,object,230,5.6,67
+DP03_0049PM,Percent Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed in own not incorporated business workers,object,103,1.0,150
+DP03_0050PE,Percent!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,object,42,0.2,709
+DP03_0050PM,Percent Margin of Error!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers,object,79,0.1,1108
+DP03_0051PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households,object,3035,9792,4
+DP03_0051PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households,object,2,(X),3221
+DP03_0052PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",object,259,4.7,60
+DP03_0052PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000",object,87,1.1,151
+DP03_0053PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",object,158,4.8,78
+DP03_0053PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999",object,85,0.8,171
+DP03_0054PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",object,218,10.5,56
+DP03_0054PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999",object,99,1.8,131
+DP03_0055PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",object,176,10.7,73
+DP03_0055PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999",object,93,1.6,138
+DP03_0056PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",object,191,13.3,65
+DP03_0056PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999",object,103,2.0,110
+DP03_0057PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",object,224,18.2,67
+DP03_0057PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999",object,107,1.7,113
+DP03_0058PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",object,201,12.4,57
+DP03_0058PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999",object,94,1.4,127
+DP03_0059PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",object,255,13.4,40
+DP03_0059PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999",object,92,1.7,137
+DP03_0060PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",object,155,3.3,76
+DP03_0060PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999",object,70,0.8,254
+DP03_0061PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",object,198,2.6,92
+DP03_0061PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more",object,72,0.8,299
+DP03_0062PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),object,2,(X),3221
+DP03_0062PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),object,2,(X),3221
+DP03_0063PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),object,2,(X),3221
+DP03_0063PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),object,2,(X),3221
+DP03_0064PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,object,416,73.3,27
+DP03_0064PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings,object,114,1.7,115
+DP03_0065PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),object,2,(X),3221
+DP03_0065PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars),object,2,(X),3221
+DP03_0066PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,object,395,35.0,25
+DP03_0066PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security,object,120,1.8,106
+DP03_0067PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),object,2,(X),3221
+DP03_0067PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars),object,2,(X),3221
+DP03_0068PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,object,301,20.9,30
+DP03_0068PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income,object,103,2.0,115
+DP03_0069PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),object,2,(X),3221
+DP03_0069PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars),object,2,(X),3221
+DP03_0070PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,object,179,4.2,68
+DP03_0070PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income,object,85,1.0,185
+DP03_0071PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),object,2,(X),3221
+DP03_0071PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars),object,2,(X),3221
+DP03_0072PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,object,128,1.7,140
+DP03_0072PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income,object,76,0.6,307
+DP03_0073PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),object,2,(X),3221
+DP03_0073PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars),object,2,(X),3221
+DP03_0074PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp/SNAP benefits in the past 12 months,object,386,13.2,37
+DP03_0074PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp/SNAP benefits in the past 12 months,object,103,1.7,124
+DP03_0075PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families,object,3003,10249,4
+DP03_0075PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families,object,2,(X),3221
+DP03_0076PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",object,208,2.6,78
+DP03_0076PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000",object,106,0.9,169
+DP03_0077PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",object,136,1.8,108
+DP03_0077PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999",object,102,0.6,205
+DP03_0078PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",object,226,5.7,58
+DP03_0078PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999",object,110,1.4,119
+DP03_0079PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",object,197,8.9,52
+DP03_0079PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999",object,115,1.1,113
+DP03_0080PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",object,219,14.2,52
+DP03_0080PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999",object,119,1.9,101
+DP03_0081PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",object,255,19.7,55
+DP03_0081PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999",object,128,2.1,90
+DP03_0082PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",object,248,15.3,57
+DP03_0082PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999",object,115,1.9,96
+DP03_0083PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",object,288,17.7,35
+DP03_0083PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999",object,121,2.2,102
+DP03_0084PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",object,181,4.5,60
+DP03_0084PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999",object,88,1.1,188
+DP03_0085PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",object,234,3.4,68
+DP03_0085PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more",object,95,0.9,218
+DP03_0086PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),object,2,(X),3221
+DP03_0086PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars),object,2,(X),3221
+DP03_0087PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),object,2,(X),3221
+DP03_0087PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars),object,2,(X),3221
+DP03_0088PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars),object,2,(X),3221
+DP03_0088PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars),object,2,(X),3221
+DP03_0089PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,object,2814,1808,4
+DP03_0089PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,object,2,(X),3221
+DP03_0090PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),object,2,(X),3221
+DP03_0090PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars),object,2,(X),3221
+DP03_0091PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),object,2,(X),3221
+DP03_0091PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars),object,2,(X),3221
+DP03_0092PE,Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for workers (dollars),object,2,(X),3221
+DP03_0092PM,Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for workers (dollars),object,2,(X),3221
+DP03_0093PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for male full-time, year-round workers (dollars)",object,2,(X),3221
+DP03_0093PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for male full-time, year-round workers (dollars)",object,2,(X),3221
+DP03_0094PE,"Percent!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for female full-time, year-round workers (dollars)",object,2,(X),3221
+DP03_0094PM,"Percent Margin of Error!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Median earnings for female full-time, year-round workers (dollars)",object,2,(X),3221
+DP03_0095PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,object,3163,19346,3
+DP03_0095PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population,object,2,(X),3221
+DP03_0096PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage,object,256,92.7,44
+DP03_0096PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage,object,95,1.0,163
+DP03_0097PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With private health insurance,object,539,65.2,20
+DP03_0097PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With private health insurance,object,120,2.8,90
+DP03_0098PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With public coverage,object,490,39.7,24
+DP03_0098PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With public coverage,object,108,1.9,117
+DP03_0099PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,object,256,4.9,44
+DP03_0099PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage,object,95,1.0,163
+DP03_0100PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years,object,2970,1202,3
+DP03_0100PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years,object,2,(X),3221
+DP03_0101PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years!!No health insurance coverage,object,253,2.8,55
+DP03_0101PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years!!No health insurance coverage,object,161,1.5,123
+DP03_0102PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years,object,3105,2000,3
+DP03_0102PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years,object,2,(X),3221
+DP03_0103PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:,object,3057,11684,3
+DP03_0103PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:,object,2,(X),3221
+DP03_0104PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:,object,3073,2719,3
+DP03_0104PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:,object,2,(X),3221
+DP03_0105PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage,object,319,90.7,38
+DP03_0105PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage,object,130,1.5,112
+DP03_0106PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With private health insurance,object,421,83.2,31
+DP03_0106PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With private health insurance,object,152,2.0,83
+DP03_0107PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With public coverage,object,340,5.8,45
+DP03_0107PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With public coverage,object,116,1.7,125
+DP03_0108PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!No health insurance coverage,object,319,9.3,38
+DP03_0108PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!No health insurance coverage,object,130,1.5,112
+DP03_0109PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:,object,1794,0,27
+DP03_0109PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:,object,2,(X),3221
+DP03_0110PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage,object,748,100.0,87
+DP03_0110PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage,object,467,100.0,28
+DP03_0111PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With private health insurance,object,721,0.0,67
+DP03_0111PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With private health insurance,object,449,**,27
+DP03_0112PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With public coverage,object,763,0.0,137
+DP03_0112PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With public coverage,object,434,100.0,32
+DP03_0113PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!No health insurance coverage,object,750,0.0,87
+DP03_0113PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!No health insurance coverage,object,466,100.0,28
+DP03_0114PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:,object,2834,1762,4
+DP03_0114PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:,object,2,(X),3221
+DP03_0115PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage,object,426,91.8,29
+DP03_0115PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage,object,195,1.8,71
+DP03_0116PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With private health insurance,object,648,41.3,18
+DP03_0116PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With private health insurance,object,222,3.6,53
+DP03_0117PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With public coverage,object,665,48.3,16
+DP03_0117PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With public coverage,object,214,6.2,53
+DP03_0118PE,Percent!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!No health insurance coverage,object,426,7.7,28
+DP03_0118PM,Percent Margin of Error!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!No health insurance coverage,object,195,1.8,71
+DP03_0119PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,object,342,6.6,39
+DP03_0119PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,object,120,1.8,103
+DP03_0120PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years,object,485,15.9,26
+DP03_0120PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years,object,200,2.9,61
+DP03_0121PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,object,581,0.0,147
+DP03_0121PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,object,440,8.8,29
+DP03_0122PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families,object,254,3.8,69
+DP03_0122PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families,object,122,0.9,129
+DP03_0123PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years,object,328,0.0,69
+DP03_0123PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years,object,231,1.9,75
+DP03_0124PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,object,396,0.0,800
+DP03_0124PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,object,515,100.0,46
+DP03_0125PE,"Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present",object,602,0.0,37
+DP03_0125PM,"Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present",object,330,6.5,36
+DP03_0126PE,"Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years",object,696,0.0,41
+DP03_0126PM,"Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years",object,395,10.0,30
+DP03_0127PE,"Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",object,822,0.0,217
+DP03_0127PM,"Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",object,604,**,135
+DP03_0128PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,object,379,11.2,35
+DP03_0128PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,object,102,1.3,117
+DP03_0129PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years,object,532,14.4,22
+DP03_0129PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years,object,198,3.8,57
+DP03_0130PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years,object,526,11.1,26
+DP03_0130PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years,object,198,2.6,55
+DP03_0131PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,object,607,0.0,51
+DP03_0131PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,object,305,4.9,37
+DP03_0132PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,object,514,21.5,24
+DP03_0132PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,object,216,3.8,53
+DP03_0133PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over,object,345,11.8,37
+DP03_0133PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over,object,97,1.4,128
+DP03_0134PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!18 to 64 years,object,371,13.2,34
+DP03_0134PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!18 to 64 years,object,114,1.8,103
+DP03_0135PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!65 years and over,object,317,7.0,50
+DP03_0135PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!65 years and over,object,143,1.6,91
+DP03_0136PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!People in families,object,369,6.8,39
+DP03_0136PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!People in families,object,119,1.3,99
+DP03_0137PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Unrelated individuals 15 years and over,object,485,24.7,24
+DP03_0137PM,Percent Margin of Error!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Unrelated individuals 15 years and over,object,176,4.4,68
